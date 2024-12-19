@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\arist\\source\\hello-world\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3CA9D913-A0D5-42C1-AFA2-FAB34679D0B4}|src\\ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\arist\\source\\hello-world\\src\\consoleapp1\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CA9D913-A0D5-42C1-AFA2-FAB34679D0B4}|src\\ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:src\\consoleapp1\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E321602-5E01-4F46-BB18-D699D6727104}|src\\ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\arist\\source\\hello-world\\src\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E321602-5E01-4F46-BB18-D699D6727104}|src\\ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:src\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CA9D913-A0D5-42C1-AFA2-FAB34679D0B4}|src\\ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\arist\\source\\hello-world\\src\\consoleapp1\\proizvod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CA9D913-A0D5-42C1-AFA2-FAB34679D0B4}|src\\ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:src\\consoleapp1\\proizvod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E321602-5E01-4F46-BB18-D699D6727104}|src\\ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\arist\\source\\hello-world\\src\\consoleapp2\\prodavnica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E321602-5E01-4F46-BB18-D699D6727104}|src\\ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:src\\consoleapp2\\prodavnica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CA9D913-A0D5-42C1-AFA2-FAB34679D0B4}|src\\ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\arist\\source\\hello-world\\src\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CA9D913-A0D5-42C1-AFA2-FAB34679D0B4}|src\\ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:src\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E321602-5E01-4F46-BB18-D699D6727104}|src\\ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\arist\\source\\hello-world\\src\\consoleapp2\\proizvod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E321602-5E01-4F46-BB18-D699D6727104}|src\\ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:src\\consoleapp2\\proizvod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Proizvod.cs",
-              "DocumentMoniker": "C:\\Users\\arist\\source\\hello-world\\src\\ConsoleApp1\\Proizvod.cs",
-              "RelativeDocumentMoniker": "src\\ConsoleApp1\\Proizvod.cs",
-              "ToolTip": "C:\\Users\\arist\\source\\hello-world\\src\\ConsoleApp1\\Proizvod.cs",
-              "RelativeToolTip": "src\\ConsoleApp1\\Proizvod.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\arist\\source\\hello-world\\src\\ConsoleApp2\\Proizvod.cs",
+              "RelativeDocumentMoniker": "src\\ConsoleApp2\\Proizvod.cs",
+              "ToolTip": "C:\\Users\\arist\\source\\hello-world\\src\\ConsoleApp2\\Proizvod.cs",
+              "RelativeToolTip": "src\\ConsoleApp2\\Proizvod.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAewA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T23:24:31.298Z",
+              "WhenOpened": "2024-12-19T01:07:13.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Prodavnica.cs",
+              "DocumentMoniker": "C:\\Users\\arist\\source\\hello-world\\src\\ConsoleApp2\\Prodavnica.cs",
+              "RelativeDocumentMoniker": "src\\ConsoleApp2\\Prodavnica.cs",
+              "ToolTip": "C:\\Users\\arist\\source\\hello-world\\src\\ConsoleApp2\\Prodavnica.cs",
+              "RelativeToolTip": "src\\ConsoleApp2\\Prodavnica.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADgvxUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:48:12.607Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "App.cs",
-              "DocumentMoniker": "C:\\Users\\arist\\source\\hello-world\\src\\ConsoleApp1\\App.cs",
-              "RelativeDocumentMoniker": "src\\ConsoleApp1\\App.cs",
-              "ToolTip": "C:\\Users\\arist\\source\\hello-world\\src\\ConsoleApp1\\App.cs",
-              "RelativeToolTip": "src\\ConsoleApp1\\App.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T23:21:05.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\arist\\source\\hello-world\\src\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "src\\ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\arist\\source\\hello-world\\src\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "src\\ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\arist\\source\\hello-world\\src\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "src\\ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\arist\\source\\hello-world\\src\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "src\\ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwDEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T19:28:21.575Z",
+              "WhenOpened": "2024-12-18T23:42:20.468Z",
               "EditorCaption": ""
             }
           ]
