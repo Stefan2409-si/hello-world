@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\arist\\source\\hello-world\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CB5FD8EC-28A0-47CB-BD9A-ED40E5D94EB7}|src\\ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\arist\\source\\hello-world\\src\\consoleapp3\\prodavnica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB5FD8EC-28A0-47CB-BD9A-ED40E5D94EB7}|src\\ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:src\\consoleapp3\\prodavnica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CB5FD8EC-28A0-47CB-BD9A-ED40E5D94EB7}|src\\ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\arist\\source\\hello-world\\src\\consoleapp3\\nasumicnigenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB5FD8EC-28A0-47CB-BD9A-ED40E5D94EB7}|src\\ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:src\\consoleapp3\\nasumicnigenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB5FD8EC-28A0-47CB-BD9A-ED40E5D94EB7}|src\\ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\arist\\source\\hello-world\\src\\consoleapp3\\prodavnica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB5FD8EC-28A0-47CB-BD9A-ED40E5D94EB7}|src\\ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:src\\consoleapp3\\prodavnica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB5FD8EC-28A0-47CB-BD9A-ED40E5D94EB7}|src\\ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\arist\\source\\hello-world\\src\\consoleapp3\\pomocnemetode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB5FD8EC-28A0-47CB-BD9A-ED40E5D94EB7}|src\\ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:src\\consoleapp3\\pomocnemetode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB5FD8EC-28A0-47CB-BD9A-ED40E5D94EB7}|src\\ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\arist\\source\\hello-world\\src\\consoleapp3\\proizvod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CB5FD8EC-28A0-47CB-BD9A-ED40E5D94EB7}|src\\ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\arist\\source\\hello-world\\src\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB5FD8EC-28A0-47CB-BD9A-ED40E5D94EB7}|src\\ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:src\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB5FD8EC-28A0-47CB-BD9A-ED40E5D94EB7}|src\\ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\arist\\source\\hello-world\\src\\consoleapp3\\pomocnemetode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB5FD8EC-28A0-47CB-BD9A-ED40E5D94EB7}|src\\ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:src\\consoleapp3\\pomocnemetode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Proizvod.cs",
               "DocumentMoniker": "C:\\Users\\arist\\source\\hello-world\\src\\ConsoleApp3\\Proizvod.cs",
               "RelativeDocumentMoniker": "src\\ConsoleApp3\\Proizvod.cs",
@@ -51,20 +51,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Prodavnica.cs",
               "DocumentMoniker": "C:\\Users\\arist\\source\\hello-world\\src\\ConsoleApp3\\Prodavnica.cs",
               "RelativeDocumentMoniker": "src\\ConsoleApp3\\Prodavnica.cs",
               "ToolTip": "C:\\Users\\arist\\source\\hello-world\\src\\ConsoleApp3\\Prodavnica.cs",
               "RelativeToolTip": "src\\ConsoleApp3\\Prodavnica.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAIA6wBAAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-04T01:40:50.869Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Aplikacija.cs",
               "DocumentMoniker": "C:\\Users\\arist\\source\\hello-world\\src\\ConsoleApp3\\Aplikacija.cs",
               "RelativeDocumentMoniker": "src\\ConsoleApp3\\Aplikacija.cs",
@@ -77,33 +77,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "NasumicniGenerator.cs",
               "DocumentMoniker": "C:\\Users\\arist\\source\\hello-world\\src\\ConsoleApp3\\NasumicniGenerator.cs",
               "RelativeDocumentMoniker": "src\\ConsoleApp3\\NasumicniGenerator.cs",
               "ToolTip": "C:\\Users\\arist\\source\\hello-world\\src\\ConsoleApp3\\NasumicniGenerator.cs",
               "RelativeToolTip": "src\\ConsoleApp3\\NasumicniGenerator.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAzwEIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswDUAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-04T01:33:35.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "PomocneMetode.cs",
               "DocumentMoniker": "C:\\Users\\arist\\source\\hello-world\\src\\ConsoleApp3\\PomocneMetode.cs",
               "RelativeDocumentMoniker": "src\\ConsoleApp3\\PomocneMetode.cs",
               "ToolTip": "C:\\Users\\arist\\source\\hello-world\\src\\ConsoleApp3\\PomocneMetode.cs",
               "RelativeToolTip": "src\\ConsoleApp3\\PomocneMetode.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-04T01:30:28.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\arist\\source\\hello-world\\src\\ConsoleApp3\\Program.cs",
               "RelativeDocumentMoniker": "src\\ConsoleApp3\\Program.cs",
